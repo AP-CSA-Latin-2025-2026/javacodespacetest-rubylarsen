@@ -5,6 +5,13 @@
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
+            "projectName": "javacodespacetest-rubylarsen_4d2f56bf"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
             "projectName": "apcsa-template_6353ce7"
         },
         {
